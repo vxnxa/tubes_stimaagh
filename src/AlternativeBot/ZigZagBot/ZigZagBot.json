@@ -1,0 +1,10 @@
+{
+  "name": "Zig Zag Bot",
+  "version": "1.0",
+  "authors": ["Stimaagh"],
+  "description": "Bot lincah yang bergerak zigzag tak terduga, mengutamakan kelincahan untuk menghindari tembakan musuh.",
+  "homepage": "",
+  "countryCodes": ["id"],
+  "platform": ".Net 6.0",
+  "programmingLang": "C# 10.0"
+}

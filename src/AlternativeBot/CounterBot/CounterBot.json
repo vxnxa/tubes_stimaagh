@@ -1,0 +1,10 @@
+{
+  "name": "Counter Bot",
+  "version": "1.0",
+  "authors": ["Stimaagh"],
+  "description": "Bot taktis yang bergerak melingkar sambil menyesuaikan fire power secara cermat berdasarkan jarak musuh.",
+  "homepage": "",
+  "countryCodes": ["id"],
+  "platform": ".Net 6.0",
+  "programmingLang": "C# 10.0"
+}

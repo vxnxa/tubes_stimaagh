@@ -1,0 +1,10 @@
+{
+  "name": "Stimaagh Bot",
+  "version": "1.0",
+  "authors": ["Stimaagh"],
+  "description": "Bot agresif dengan fire power maksimal yang selalu menyerang tanpa peduli jarak maupun risiko.",
+  "homepage": "",
+  "countryCodes": ["id"],
+  "platform": ".Net 6.0",
+  "programmingLang": "C# 10.0"
+}

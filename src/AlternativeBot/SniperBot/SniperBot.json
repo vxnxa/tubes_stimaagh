@@ -1,0 +1,10 @@
+{
+  "name": "Sniper Bot",
+  "version": "1.0",
+  "authors": ["Stimaagh"],
+  "description": "Bot presisi yang bergerak pelan dan sabar, mematikan dari jarak jauh dengan tembakan bertenaga penuh.",
+  "homepage": "",
+  "countryCodes": ["id"],
+  "platform": ".Net 6.0",
+  "programmingLang": "C# 10.0"
+}
