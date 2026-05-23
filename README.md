@@ -40,3 +40,8 @@ Pemeriksaan Versi .NET: Cek versi .NET di terminal dengan `dotnet --version`.
 Buka file `.csproj` bot, dan pastikan tag `<TargetFramework>` sesuai dengan versi sistem Anda (misal: `<TargetFramework>net6.0</TargetFramework>`).
 Clean Build: Hapus folder `bin` dan `obj` yang ada di dalam direktori bot, lalu coba boot ulang.
 Eksekusi Terminal (Server Lokal): Jika menggunakan terminal, pastikan local server berjalan dan atur konfigurasi `SERVER_SECRET` pada terminal menggunakan secret key yang didapat dari file `server.properties` sebelum menjalankan perintah `dotnet run`.
+
+Author
+Sheiryzka Revania Maharani (124140013)
+Annisa Afrida (124140121)
+Nazwa Nasyifaa Mega (124140169)
